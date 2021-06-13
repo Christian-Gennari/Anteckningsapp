@@ -1,0 +1,10 @@
+C:\Users\Christian\Documents\GitHub\Anteckningsapp\Anteckningsapp\bin\Debug\Anteckningsapp.exe.config
+C:\Users\Christian\Documents\GitHub\Anteckningsapp\Anteckningsapp\bin\Debug\Anteckningsapp.exe
+C:\Users\Christian\Documents\GitHub\Anteckningsapp\Anteckningsapp\bin\Debug\Anteckningsapp.pdb
+C:\Users\Christian\Documents\GitHub\Anteckningsapp\Anteckningsapp\obj\Debug\Anteckningsapp.csproj.AssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Anteckningsapp\Anteckningsapp\obj\Debug\Anteckningsapp.Form1.resources
+C:\Users\Christian\Documents\GitHub\Anteckningsapp\Anteckningsapp\obj\Debug\Anteckningsapp.Properties.Resources.resources
+C:\Users\Christian\Documents\GitHub\Anteckningsapp\Anteckningsapp\obj\Debug\Anteckningsapp.csproj.GenerateResource.cache
+C:\Users\Christian\Documents\GitHub\Anteckningsapp\Anteckningsapp\obj\Debug\Anteckningsapp.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Anteckningsapp\Anteckningsapp\obj\Debug\Anteckningsapp.exe
+C:\Users\Christian\Documents\GitHub\Anteckningsapp\Anteckningsapp\obj\Debug\Anteckningsapp.pdb
